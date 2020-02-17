@@ -8,3 +8,11 @@ Java for the computation and XML files for the user interface.
 To get an idea of the app, please see the screenshots included in the repository.  The .apk file is also uploaded
 if you want to run the app.  If you require the original source code, please contact me via e-mail at: arvidyuen7@hotmail.com
 
+Details:
+- Lists use RecyclerView
+- Dream entries use Fragment
+- Activity extends AppCompatActivity
+- minSdKVersion 22
+- targetSdKVersion 28
+- implements androidx
+- requests camera permission upon taking a photo
