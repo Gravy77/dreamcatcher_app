@@ -17,5 +17,3 @@ Details:
 - targetSdKVersion 28
 - Uses the AndroidX support library
 - the app will request camera permission upon an attempt take a photo
-
-If you would like to learn more about this app, please contact me at arvidyuen7@hotmail.com
